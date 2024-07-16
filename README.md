@@ -1,4 +1,5 @@
-Here is a brief information of what data is collected and where it is used.
+Here is a brief information of what data is collected and where it is used.    
+Last update: 07/16/2024
 
 ## How this data is collected?
   They are collected whenever you send a message using our services.
